@@ -1,0 +1,5 @@
+c:\users\enas\documents\visual studio 2010\Projects\2CINOTECH_Project\2CINOTECH_Project\bin\2CINOTECH_Project.dll
+c:\users\enas\documents\visual studio 2010\Projects\2CINOTECH_Project\2CINOTECH_Project\bin\2CINOTECH_Project.pdb
+c:\users\enas\documents\visual studio 2010\Projects\2CINOTECH_Project\2CINOTECH_Project\obj\Debug\ResolveAssemblyReference.cache
+c:\users\enas\documents\visual studio 2010\Projects\2CINOTECH_Project\2CINOTECH_Project\obj\Debug\2CINOTECH_Project.dll
+c:\users\enas\documents\visual studio 2010\Projects\2CINOTECH_Project\2CINOTECH_Project\obj\Debug\2CINOTECH_Project.pdb
